@@ -33,7 +33,7 @@ HELP_MSG="""
 
 ⨷/unpinall : ᴜɴᴘɪɴ ᴀʟʟ ᴍᴇssᴀɢᴇs ɪɴ ᴀ ɢʀᴏᴜᴘ.
 
-ᴄʀᴇᴀᴛᴇᴅ ʙʏ: [sᴛᴀʀᴋ ɪɴᴅᴜsᴛʀʏ](https://t.me/StarkIndustry_21)
+ᴄʀᴇᴀᴛᴇᴅ ʙʏ: [God Of Hacker](https://t.me/+XmPd-pFHRGljYjY1)
 """
 
 
